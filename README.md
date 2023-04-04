@@ -1,6 +1,7 @@
-# cs2-longjump-script
-This is a script that allows for -w in CS2 as there have been talks that it will be removed from the game
+# cs2-movement-scripts
+
+There is rumour that Alias will no longer work in CS2 so I have created a place that will have the popularly used ones for kreedz and surf. 
 
 If you have any questions or issues, message me at purps#1010 on Discord. 
 
-I will be adding a Null ahk script to this site soon
+I will be adding a null ahk script soon
