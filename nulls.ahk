@@ -1,3 +1,5 @@
+; COPY AND SAVE AS .ahk
+
 #NoEnv
 SendMode Input
 SetWorkingDir %A_ScriptDir%
