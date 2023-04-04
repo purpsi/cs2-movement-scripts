@@ -38,3 +38,5 @@ return
 *~d up::
     Send, {d up}
 return
+
+#p::ExitAapp
