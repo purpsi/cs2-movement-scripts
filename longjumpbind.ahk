@@ -1,15 +1,15 @@
-; ; The #p at the end of the script is win+p, change this to whatever you like
+; The #p at the end of the script is win+p, change this to whatever you like
 
 #NoEnv
 SendMode Input
 SetWorkingDir %A_ScriptDir%
 
 longJumpOn:
-    Hotkey, RButton, longJump, On
+    Hotkey, RButton, longJump, On   ; Change RButton to your desired key
 return
 
 longJumpOff:
-    Hotkey, RButton, longJump, Off
+    Hotkey, RButton, longJump, Off ; Change RButton to your desied key
 return
 
 ljon:
