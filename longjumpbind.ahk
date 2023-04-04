@@ -1,3 +1,5 @@
+; ; The #p at the end of the script is win+p, change this to whatever you like
+
 #NoEnv
 SendMode Input
 SetWorkingDir %A_ScriptDir%
